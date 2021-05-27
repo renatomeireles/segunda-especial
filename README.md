@@ -1,10 +1,5 @@
-# DaleDale Command Line Sound
+# Começou o fim de semana Command Line Sound
 
-<div style="text-align: center">
-    <img src="./daledale.jpg" height="300"/>
-</div>
-
-> Dale dale dale dale PQP! 
 
 ## Compatibility
 
@@ -15,7 +10,7 @@
 ## Installing
 Install globally:
 
-    npm install -g daledale
+    npm install -g comecoufds
 
 ## Running
 Run command:
@@ -24,19 +19,11 @@ Run command:
 
 Or import in NodeJS script:
 
-    import daledale from 'daledale';
+    import comecoufds from 'comecoufds';
 
-    daledale();
+    comecoufds();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx daledale
-
-
-## See also
-
- - [Oloquinho](https://github.com/oloquinho/oloquinho)
- - [xFiles](https://github.com/BrOrlandi/xfiles/)
- - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
- - [Omaewa](https://github.com/BrOrlandi/omaewa/)
+    npx comecoufds
