@@ -1,6 +1,6 @@
 {
   "name": "comecou-fds",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Comecou FDS",
   "main": "index.js",
   "scripts": {

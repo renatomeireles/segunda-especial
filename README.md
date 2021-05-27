@@ -10,7 +10,7 @@
 ## Installing
 Install globally:
 
-    npm install -g comecoufds
+    npm install -g comecou-fds
 
 ## Running
 Run command:
@@ -26,4 +26,4 @@ Or import in NodeJS script:
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx comecoufds
+    npx comecou-fds
