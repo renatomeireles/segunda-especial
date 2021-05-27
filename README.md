@@ -15,7 +15,7 @@ Install globally:
 ## Running
 Run command:
 
-    daledale
+    comecoufds
 
 Or import in NodeJS script:
 
