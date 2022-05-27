@@ -6,9 +6,9 @@ const fs = require('fs');
 const R = require('ramda');
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
-const soundPath = path.join(mainPath, './comecoufds');
+const soundPath = path.join(mainPath, './segundaespecial');
 
-const comecoufds = function (){
+const segundaespecial = function () {
     const linuxcmd = R.join('', ['paplay ', soundPath, '.ogg']);
     const windowscmd = `powershell -c (New-Object Media.SoundPlayer '${soundPath}.wav').PlaySync()`
     const maccmd = R.join('', ['afplay ', soundPath, '.mp3']);
@@ -21,19 +21,19 @@ const comecoufds = function (){
         [R.equals('darwin'), exec(maccmd)],
     ], platform)
 
-    function exec(cmd){
+    function exec(cmd) {
         return exect(cmd, function (error) {
             R.ifElse(
-               R.empty,
-               () => console.log('COMEÇOU O FIM DE SEMANA!! #PAS'),
-               (error) => console.error(error),
-               error)
+                R.empty,
+                () => console.log('COMEÇOU O FIM DE SEMANA!! #PAS'),
+                (error) => console.error(error),
+                error)
         });
     }
 }
 
-module.exports = comecoufds;
+module.exports = segundaespecial;
 
 if (!module.parent) {
-    comecoufds();
+    segundaespecial();
 }

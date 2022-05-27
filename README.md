@@ -10,20 +10,20 @@
 ## Installing
 Install globally:
 
-    npm install -g comecou-fds
+    npm install -g segundaespecial
 
 ## Running
 Run command:
 
-    comecoufds
+    segundaespecial
 
 Or import in NodeJS script:
 
-    import comecoufds from 'comecoufds';
+    import segundaespecial from 'segundaespecial';
 
-    comecoufds();
+    segundaespecial();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx comecou-fds
+    npx segundaespecial
