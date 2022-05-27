@@ -1,27 +1,27 @@
 {
-  "name": "comecou-fds",
-  "version": "1.0.5",
-  "description": "Comecou FDS",
+  "name": "segundaespecial",
+  "version": "0.0.1",
+  "description": "Segunda especial",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:riccihenrique/comecou-fds.git"
+    "url": "git@github.com:renatomeireles/segundaespecial.git"
   },
   "keywords": [
     "comecoufds"
   ],
-  "author": "ricciHenrique",
+  "author": "renatomeireles",
   "license": "MIT",
   "bin": {
     "comecoufds": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/riccihenrique/comecou-fds/issues"
+    "url": "https://github.com/renatomeireles/segundaespecial/issues"
   },
-  "homepage": "https://github.com/riccihenrique/comecou-fds/blob/master/README.md",
+  "homepage": "https://github.com/renatomeireles/segundaespecial/blob/master/README.md",
   "dependencies": {
     "ramda": "^0.26.1"
   }
