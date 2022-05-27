@@ -10,7 +10,7 @@
 ## Installing
 Install globally:
 
-    npm install -g segundaespecial
+    npm install -g segunda-especial
 
 ## Running
 Run command:
@@ -19,11 +19,11 @@ Run command:
 
 Or import in NodeJS script:
 
-    import segundaespecial from 'segundaespecial';
+    import segundaespecial from 'segunda-especial';
 
     segundaespecial();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx segundaespecial
+    npx segunda-especial
