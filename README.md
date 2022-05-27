@@ -19,7 +19,7 @@ Run command:
 
 Or import in NodeJS script:
 
-    import segundaespecial from 'segunda-especial';
+    import segundaespecial from 'segundaespecial';
 
     segundaespecial();
     
