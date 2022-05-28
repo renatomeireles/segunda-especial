@@ -1,6 +1,6 @@
 {
-  "name": "segundaespecial",
-  "version": "0.0.2",
+  "name": "segunda-especial",
+  "version": "0.0.4",
   "description": "Segunda especial",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:renatomeireles/segundaespecial.git"
+    "url": "git@github.com:renatomeireles/segunda-especial.git"
   },
   "keywords": [
     "segunda",
@@ -20,9 +20,9 @@
     "comecoufds": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/renatomeireles/segundaespecial/issues"
+    "url": "https://github.com/renatomeireles/segunda-especial/issues"
   },
-  "homepage": "https://github.com/renatomeireles/segundaespecial/blob/master/README.md",
+  "homepage": "https://github.com/renatomeireles/segunda-especial/blob/master/README.md",
   "dependencies": {
     "ramda": "^0.26.1"
   }
