@@ -25,7 +25,7 @@ const segundaespecial = function () {
         return exect(cmd, function (error) {
             R.ifElse(
                 R.empty,
-                () => console.log('COMEÇOU O FIM DE SEMANA!! #PAS'),
+                () => console.log('Segunda-feira especial!'),
                 (error) => console.error(error),
                 error)
         });
