@@ -1,5 +1,10 @@
-# Começou o fim de semana Command Line Sound
+# Segunda especial Command Line Sound
 
+<div style="text-align: center">
+    <img src="./segunda-especial.jpg" height="300"/>
+</div>
+
+> Segunda-feira é um dia especial
 
 ## Compatibility
 
